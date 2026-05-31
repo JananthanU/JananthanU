@@ -1,16 +1,29 @@
-## Hi there 👋
+**Data Science & Machine Learning** | MSE @ HSLU | Zürich / Luzern
 
-<!--
-**JananthanU/JananthanU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+What drew me to data science was realising that data makes patterns visible that would otherwise stay hidden, and that those patterns can support real decisions. I build ML pipelines and experiment with deep learning architectures where the goal is not just exploration, but findings that can actually be used, whether to improve a product, plan capacity, or inform a decision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+
+**Languages & core:** Python | SQL  
+**ML / Data Science:** scikit-learn | XGBoost | SARIMAX | Optuna | pandas | NumPy  
+**Deep Learning:** PyTorch | CNNs | RNNs | Transformers | Attention | Transfer Learning  
+**Experiment Tracking:** Weights & Biases  
+**Automation:** UiPath (RPA)  
+**Environment:** Git | Jupyter
+
+---
+
+### Selected Projects
+
+**[image-captioning-flickr8k](https://github.com/JananthanU/image-captioning-flickr8k)**  
+Five captioning architectures from CNN-LSTM to Transformer decoder on Flickr8k — greedy and beam search, BLEU-1–4 / METEOR comparison, attention visualisation.
+
+**[bachelor-thesis-ml-pipeline](https://github.com/JananthanU/bachelor-thesis-ml-pipeline)**  
+End-to-end time-series forecasting pipeline — feature selection comparison (RFE, Lasso, Random Forest), expanding-window validation, Optuna HPO across XGBoost, SARIMAX and Ridge.
+
+**[sgd-optimizer-extensions](https://github.com/JananthanU/sgd-optimizer-extensions)**  
+Five gradient-descent extensions (input standardisation, early stopping, LR decay, quadratic model, Adam) built on a custom computational graph — no PyTorch, benchmarked against the closed-form solution.
