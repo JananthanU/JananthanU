@@ -20,10 +20,10 @@ What drew me to data science was realising that data makes patterns visible that
 ### Selected Projects
 
 **[image-captioning-flickr8k](https://github.com/JananthanU/image-captioning-flickr8k)**  
-Five captioning architectures from CNN-LSTM to Transformer decoder on Flickr8k — greedy and beam search, BLEU-1–4 / METEOR comparison, attention visualisation.
+Five captioning architectures from CNN-LSTM to Transformer decoder on Flickr8k, evaluated with BLEU and METEOR across greedy and beam search, with attention visualisation.
 
 **[time-series-forecasting-pipeline](https://github.com/JananthanU/time-series-forecasting-pipeline)**  
-End-to-end time-series forecasting pipeline — feature selection comparison (RFE, Lasso, Random Forest), expanding-window validation, Optuna HPO across XGBoost, SARIMAX and Ridge.
+End-to-end time-series forecasting pipeline, feature selection comparison (RFE, Lasso, Random Forest), expanding-window validation, Optuna HPO across XGBoost, SARIMAX and Ridge.
 
 **[sgd-optimizer-extensions](https://github.com/JananthanU/sgd-optimizer-extensions)**  
-Five gradient-descent extensions (input standardisation, early stopping, LR decay, quadratic model, Adam) built on a custom computational graph — no PyTorch, benchmarked against the closed-form solution.
+Five gradient-descent extensions on a custom computational graph: standardisation, early stopping, LR decay, quadratic model, and Adam. No PyTorch, benchmarked against the closed-form solution.
