@@ -22,7 +22,7 @@ What drew me to data science was realising that data makes patterns visible that
 **[image-captioning-flickr8k](https://github.com/JananthanU/image-captioning-flickr8k)**  
 Five captioning architectures from CNN-LSTM to Transformer decoder on Flickr8k — greedy and beam search, BLEU-1–4 / METEOR comparison, attention visualisation.
 
-**[bachelor-thesis-ml-pipeline](https://github.com/JananthanU/bachelor-thesis-ml-pipeline)**  
+**[time-series-forecasting-pipeline](https://github.com/JananthanU/time-series-forecasting-pipeline)**  
 End-to-end time-series forecasting pipeline — feature selection comparison (RFE, Lasso, Random Forest), expanding-window validation, Optuna HPO across XGBoost, SARIMAX and Ridge.
 
 **[sgd-optimizer-extensions](https://github.com/JananthanU/sgd-optimizer-extensions)**  
