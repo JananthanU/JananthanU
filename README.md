@@ -27,3 +27,6 @@ End-to-end time-series forecasting pipeline, feature selection comparison (RFE, 
 
 **[sgd-optimizer-extensions](https://github.com/JananthanU/sgd-optimizer-extensions)**  
 Five gradient-descent extensions on a custom computational graph: standardisation, early stopping, LR decay, quadratic model, and Adam. No PyTorch, benchmarked against the closed-form solution.
+
+**[cnn-architecture-study](https://github.com/JananthanU/cnn-architecture-study)**  
+Eight controlled CNN experiments covering depth, regularization, optimizer comparison, and transfer learning. Pretrained ResNet18 reaches 94.7% validation accuracy, compared to 63.2% from scratch.
