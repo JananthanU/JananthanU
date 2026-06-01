@@ -1,5 +1,4 @@
-**Data Science & Machine Learning** | MSE @ HSLU | Zürich / Luzern
-
+**MSE Student Data Science @ HSLU** | RPA Developer @ Luzerner Kantonalbank
 ---
 
 What drew me to data science was realising that data makes patterns visible that would otherwise stay hidden, and that those patterns can support real decisions. I build ML pipelines and experiment with deep learning architectures where the goal is not just exploration, but findings that can actually be used, whether to improve a product, plan capacity, or inform a decision.
