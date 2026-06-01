@@ -13,7 +13,6 @@ What drew me to data science was realising that data makes patterns visible that
 **Deep Learning:** PyTorch | CNNs | RNNs | Transformers | Attention | Transfer Learning  
 **Experiment Tracking:** Weights & Biases  
 **Automation:** UiPath (RPA)  
-**Environment:** Git | Jupyter
 
 ---
 
