@@ -17,14 +17,17 @@ What drew me to data science was realising that data makes patterns visible that
 
 ### Selected Projects
 
-**[image-captioning-flickr8k](https://github.com/JananthanU/image-captioning-flickr8k)**  
-Five captioning architectures from CNN-LSTM to Transformer decoder on Flickr8k, evaluated with BLEU and METEOR across greedy and beam search, with attention visualisation.
-
 **[time-series-forecasting-pipeline](https://github.com/JananthanU/time-series-forecasting-pipeline)**  
 End-to-end time-series forecasting pipeline, feature selection comparison (RFE, Lasso, Random Forest), expanding-window validation, Optuna HPO across XGBoost, SARIMAX and Ridge.
 
-**[sgd-optimizer-extensions](https://github.com/JananthanU/sgd-optimizer-extensions)**  
-Five gradient-descent extensions on a custom computational graph: standardisation, early stopping, LR decay, quadratic model, and Adam. No PyTorch, benchmarked against the closed-form solution.
+**[causal-inference-smoking-weight](https://github.com/JananthanU/causal-inference-smoking-weight)**  
+Causal effect of quitting smoking on 11-year weight gain in the NHEFS cohort, estimated with a causal forest, IPW and AIPW along an eight-step pipeline. The adjusted effect is 3.4 kg compared to 2.5 kg from the naive comparison, with IPW reproducing the published Hernán and Robins estimate and 5 of 5 robustness checks passed.
+
+**[image-captioning-flickr8k](https://github.com/JananthanU/image-captioning-flickr8k)**  
+Five captioning architectures from CNN-LSTM to Transformer decoder on Flickr8k, evaluated with BLEU and METEOR across greedy and beam search, with attention visualisation.
 
 **[cnn-architecture-study](https://github.com/JananthanU/cnn-architecture-study)**  
 Eight controlled CNN experiments covering depth, regularization, optimizer comparison, and transfer learning. Pretrained ResNet18 reaches 94.7% validation accuracy, compared to 63.2% from scratch.
+
+**[sgd-optimizer-extensions](https://github.com/JananthanU/sgd-optimizer-extensions)**  
+Five gradient-descent extensions on a custom computational graph: standardisation, early stopping, LR decay, quadratic model, and Adam. No PyTorch, benchmarked against the closed-form solution.
