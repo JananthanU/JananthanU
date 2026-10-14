@@ -1,4 +1,5 @@
-**MSE Student Data Science @ HSLU** | RPA Developer @ Luzerner Kantonalbank
+**MSE Student in Data Science @ HSLU | Machine Learning · Causal Inference** · Deep Learning 
+
 ---
 
 I’m interested in how data can uncover hidden patterns, explain outcomes, and support better decisions. My work focuses on machine learning, causal inference, and deep learning, with an emphasis on rigorous experimentation, model evaluation, and understanding the strengths and limitations of different approaches.
