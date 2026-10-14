@@ -1,20 +1,17 @@
 **MSE Student Data Science @ HSLU** | RPA Developer @ Luzerner Kantonalbank
 ---
 
-**Portfolio with project results:** [jananthanu.github.io](https://jananthanu.github.io)
+I’m interested in how data can uncover hidden patterns, explain outcomes, and support better decisions. My work focuses on machine learning, causal inference, and deep learning, with an emphasis on rigorous experimentation, model evaluation, and understanding the strengths and limitations of different approaches.
 
-What drew me to data science was realising that data makes patterns visible that would otherwise stay hidden, and that those patterns can support real decisions. I build ML pipelines and experiment with deep learning architectures where the goal is not just exploration, but findings that can actually be used, whether to improve a product, plan capacity, or inform a decision.
+**Data Science Portfolio:** [Explore my projects](https://jananthanu.github.io/)
 
 ---
 
-### Tech Stack
+### Core Areas
 
-**Languages & core:** Python | SQL  
-**ML / Data Science:** scikit-learn | XGBoost | SARIMAX | Optuna | SHAP | pandas | NumPy  
-**Causal Inference:** EconML | Causal Forest | IPW / AIPW | Overlap Weights | Sensitivity Analysis  
-**Deep Learning:** PyTorch | CNNs | RNNs | Transformers | Attention | Transfer Learning  
-**Experiment Tracking:** Weights & Biases  
-**Automation:** UiPath (RPA)  
+**Machine Learning:** scikit-learn | XGBoost | pandas | NumPy  
+**Causal Inference:** EconML | Causal Forests | IPW / AIPW  
+**Deep Learning:** PyTorch | CNNs | RNNs | Transformers | Transfer Learning
 
 ---
 
